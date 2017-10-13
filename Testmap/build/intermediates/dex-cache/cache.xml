@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/b80d92a684e7941ff9ade544bd547824228758b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_d1a3f17a23a1c4111f8549f5e12ec5560f833929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/4d570ae810e4ea5ddc441aba4bb87f6f1b98efb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_931d10d2fdd8dc1eef71a564ada6224cc11a1aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/33b982dcebd9cb96cba66e4aafa5174b6b73ef6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_db9d50ee67d8bfc27fd0f5801f6387876891502d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/96858ed14ade3edcf680b0105e002bf14d900509/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_4f1c7293e4a81812ad3e0afe85e7d33b0d003857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/4f5ee75b1adf422be182b65dd7cc0846292c6579/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_f96f8d1919cfaec884e8d93322b4cf27b8327292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/e26ba32c8d4a7ba7e97259cd9fae48bd5efe43a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_3b9ec46fc5db1bf6dd9143161a4712cef5e9f981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/655f02b3f155db314af8ba6b1f34eb574f6d1ded/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_a56eab582236c623ede400eee06ec14aabdd86a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/e23d71c78394c72e2f311fcc865ac211a27ebbc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_b685b30e70bb0a39965e660b2511bc6c94ca6f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/895f119fb8dbbe05620acfff245327729151df4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_e2684a6d11f29fda4b5772a0fcdc1e079c32be9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/ab05a043bbc216c25ff4b1f76320e07a5d58e7df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_3b9852c03565af6757ec9741bcdadfa23f16e3ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/7c8888b228d661d96f9c5b56100158a1a5ab727f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_81b65030d35f89a1c7bfe35820defdfda95daf2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/26d44fcff9954a0b52c6f37d11282533d4b23568/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_dfed4c5d97493091d206fb1d95c14c9adad23137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/628870e4a48435cf1c96eb8dec623c1f7771df05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_bc7fb0b9b4e5539230307269f70e0a1e35daa2af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/751cdad794f4e876345d16954b3312fe206adca1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_adf38bbf8d31a19446f99b48e020cf958a29f4d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09dec1c0a499b009958e5b464f40af4eea0ad2ea">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e109a1781f62ee11ccbd3846bbbfe2083375f4da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/76951e064bcf806027f37d2fe8e8bed76ce4c715/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_bab77ac7a14bc5530a5dfaede377d40f320d218b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/655f02b3f155db314af8ba6b1f34eb574f6d1ded/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_808eee636afedbe4b24341601305ffc056f52208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/8fbc82fd8857bbbbd97aa214283a12b6e66ea9b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_e3d3e94785124e33f55148da5d5e769f46db5c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/623f26fb2493629149b9962d1627bb1608e4deca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_9618bb687421a9b988f6edf1b54644e1540dc109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/0c039a2b5147a216583d5e36d692d797e7ed399d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_3e98515228ae4df05f082ca233856f756776d643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/a1d717ad1f7b0cf16f64a0213d1d8b23b22446cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_9e308963c62fd59431036186a4705a483382c89f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d987572670b132a6652393520f02bcd9d8336d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/96770ee95e20fb4225ecc1fc7e0211fe953c6aa4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_477aab238589ddc6c62ff0e694c0fe93a35d9a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/ec19cdb06b4be896bfa0eb4361d6c53c11c99005/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_f20bd39fd8fe8f5910d2e9826efa67d55586bab6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/4d5bdb0f3e02de642790f94d9ac79e40423d8bef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_b68bd70ac2f794d605ab7a573c2a7470879049be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/7b2121c1aacc00cbc49e30d7d8425f89ca861932/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_4adc07ef7c00976bef7e78f62dff9d9b43b89b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlsonso/.android/build-cache/1316ed5b31df33ca6a21e0e14785e61d50bb5613/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/charlsonso/Downloads/GooglePlacesDetail/Testmap/app/build/intermediates/pre-dexed/debug/classes_6e8e4f00a2fde7c62e8baa2df6ce56cbc87bd6bd.jar" />
+    </item>
+
+</items>
